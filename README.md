@@ -1,0 +1,1 @@
+# Enable-CPU-Clock-Speed-Limit---Windows-Registry
